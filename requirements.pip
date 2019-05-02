@@ -1,2 +1,9 @@
 torch-ac>=1.0.2
 gym-minigrid
+sklearn
+numpy
+pandas
+h5py
+matplotlib
+seaborn
+plotly
